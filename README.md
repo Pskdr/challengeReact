@@ -9,7 +9,7 @@ Ensure you have Node.js and npm installed on your system.
 ## Installation  
 1. Clone the repository:  
    ```bash  
-   git clone <repository_url>  
+   git clone https://github.com/Pskdr/challengeReact/tree/master  
    cd <project_directory>  
 Install dependencies:
 
